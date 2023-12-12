@@ -1,84 +1,101 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Abishek Chudal
 ---
 # Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+ Resume of Abishek Chudal
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/abishek-chudal/">LinkedIn</a>
+| <a href="https://github.com/Abishek12Np>GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2022`
+__Golden Gate Int'L College__, Kathmandu, Nepal
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 3.95 GPA
 
-`Expected 2029`
+
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
+## class experience 
 
+### High School
+
+`January 2018 - December 2021`
+__Golden Gate Int'L College__, Kathmandu, Nepal
+
+- Completed coursework in Physics, Chemistry, Mathematics, and Computer Science to prepare for future pursuits.
+- Gained hands-on experience working in various physics and chemistry labs, including. Developed knowledge of lab safety protocols and procedures and honed data analysis and scientific report writing skills.
+
+### DS 250
+
+`spetember 2023 - December 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Gained a comprehensive understanding of data science principles and methodologies.
+- Acquired proficiency in using Altair, Pandas, and machine learning techniques.
+- Explored the processing and organization of data in various contexts.
+
+
+### ECEN 106
+
+`spetember 2023 - December 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Gained proficiency in programming and utilizing Arduino, a versatile microcontroller platform.
+- Acquired knowledge of CPU (Central Processing Unit) and registries, understanding their functionality and operation.
+- Developed a foundational understanding of assembly language and its basic principles.
+- Explored the inner workings of CPU and registries, gaining insights into their roles in program execution.
+- Expanded knowledge on the fundamentals of assembly language, including instruction sets and programming concepts.
+
+### CSE 111
+
+`spetember 2023 - December 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Developed proficiency in utilizing functions in Python for efficient code organization and reusability.
+- Acquired knowledge of utilizing various libraries and modules in Python to leverage existing functionalities and enhance productivity.
+- Gained insights into best practices in Python programming, enabling cleaner and more maintainable code.
 ## Related Experience
 
-### Internships
+## Society
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Since April 2023`
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Society of Artificial Intelligence__, Rexburg, ID
 
-### Data Science Lead
+__Data Science Society__, Rexburg, ID
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+## Work History
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`december 2021 - may 2022`
+__Assistant Chef__, Sodexo, vermont 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`september 2022 - april 2023`
+__Custodial Lead__, Rexburg, ID
 
-### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Math Tutor__, BYUI 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+
 
 
 
