@@ -9,7 +9,7 @@ title: Abishek Chudal
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/abishek-chudal/">LinkedIn</a>
-| <a href="https://github.com/Abishek12Np>GitHub</a>
+| <a href="https://github.com/Abishek12Np">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
